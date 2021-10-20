@@ -3,7 +3,7 @@
 - 👨‍🦱 Leonardo Telles, 18 years old, Brazilian.
 - 🧑‍🎓 Studying frontend through the #TeuFuturo program.
 - ☕📓 I am a very focused person, i improve myself every day, my daily companions are books and several cups of coffee.
-- 🎲 Fun Fact: I play a lot of roleplaying, people used to call me master, until "i got an arrow in the knee".
+- 🎲 Fun Fact: I'm a fan of RPG.
 #### "Do your best, in the condition you have, while you have no better conditions, to do even better!" *- Mario Cortella*
 
 ##
