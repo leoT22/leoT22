@@ -1,6 +1,6 @@
 # Welcome! 👋 let me introduce myself 
 
-- 👨‍🦱 Leonardo Telles, 19 years old, Brazilian.
+- 👨‍🦱 Leonardo Telles, 20 years old, Brazilian.
 - 🧑‍🎓 Studying frontend and backend through IMED.
 - ☕📓 I am a very focused person, i improve myself every day, my daily companions are books and several cups of coffee.
 - 🎲 Fun Fact: I'm a fan of RPG.
