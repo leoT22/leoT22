@@ -1,9 +1,9 @@
 # Welcome! 👋 let me introduce myself 
 
 - 👨‍🦱 Leonardo Telles, 20 years old, Brazilian.
-- 🧑‍🎓 Studying frontend and backend through IMED.
+- 🧑‍🎓 Studying Java.
 - ☕📓 I am a very focused person, i improve myself every day, my daily companions are books and several cups of coffee.
-- 🎲 Fun Fact: I'm a fan of RPG.
+- 🎲 Fun Fact: I'm a HP Lovecraft fan.
 #### "Do your best, in the condition you have, while you have no better conditions, to do even better!" *- Mario Cortella*
 
 ##
