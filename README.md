@@ -1,6 +1,6 @@
 # Welcome! 👋 let me introduce myself 
 
-- 👨‍🦱 Leonardo Telles, 20 years old, Brazilian.
+- 👨‍🦱 Leonardo Telles, 21 years old, Brazilian.
 - 🧑‍🎓 Studying Java.
 - ☕📓 I am a very focused person, i improve myself every day, my daily companions are books and several cups of coffee.
 - 🎲 Fun Fact: I'm a HP Lovecraft fan.
